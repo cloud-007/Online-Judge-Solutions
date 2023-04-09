@@ -1,5 +1,21 @@
-# Created by .ignore support plugin (hsz.mobi)
-.idea/
-.ipynb_checkpoints/
-.vscode/
+# Compiled files
+*.class
+*.o
+*.pyc
+
+# Executables
+*.exe
 *.out
+
+# IDE and text editor files
+.vscode/
+.idea/
+*.iml
+
+# Temporary files
+*.swp
+*~
+
+# Miscellaneous files
+.DS_Store
+Thumbs.db
